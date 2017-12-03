@@ -2,3 +2,4 @@ First from firstbranch.
 Second from firstbranch.
 First from master.
 Second from master.
+Third from master.
